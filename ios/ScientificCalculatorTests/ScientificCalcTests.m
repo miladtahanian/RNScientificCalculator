@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface ScientificCalcTests : XCTestCase
+@interface ScientificCalculatorTests : XCTestCase
 
 @end
 
-@implementation ScientificCalcTests
+@implementation ScientificCalculatorTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

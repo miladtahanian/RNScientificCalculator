@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ScientificCalc.app"
-               BlueprintName = "ScientificCalc"
-               ReferencedContainer = "container:ScientificCalc.xcodeproj">
+               BuildableName = "ScientificCalculator.app"
+               BlueprintName = "ScientificCalculator"
+               ReferencedContainer = "container:ScientificCalculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ScientificCalcTests.xctest"
-               BlueprintName = "ScientificCalcTests"
-               ReferencedContainer = "container:ScientificCalc.xcodeproj">
+               BuildableName = "ScientificCalculatorTests.xctest"
+               BlueprintName = "ScientificCalculatorTests"
+               ReferencedContainer = "container:ScientificCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ScientificCalc.app"
-            BlueprintName = "ScientificCalc"
-            ReferencedContainer = "container:ScientificCalc.xcodeproj">
+            BuildableName = "ScientificCalculator.app"
+            BlueprintName = "ScientificCalculator"
+            ReferencedContainer = "container:ScientificCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ScientificCalc.app"
-            BlueprintName = "ScientificCalc"
-            ReferencedContainer = "container:ScientificCalc.xcodeproj">
+            BuildableName = "ScientificCalculator.app"
+            BlueprintName = "ScientificCalculator"
+            ReferencedContainer = "container:ScientificCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

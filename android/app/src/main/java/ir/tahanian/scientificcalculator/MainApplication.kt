@@ -1,4 +1,4 @@
-package com.scientificcalc
+package ir.tahanian.scientificcalculator
 
 import android.app.Application
 import com.facebook.react.PackageList
